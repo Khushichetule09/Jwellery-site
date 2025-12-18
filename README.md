@@ -1,19 +1,19 @@
-# 💎 Jwellery Shop Website
+# 💎 Jewellery Shop Website
 
-A modern, responsive **Jwellery Shop Website** built to showcase jwellery collections, product details, and brand information with a clean and elegant user interface. This project is suitable for small jewelry businesses to establish an online presence.
+A modern, responsive **Jewellery Shop Website** built to showcase jewellery collections, product details, and brand information with a clean and elegant user interface. This project is suitable for small jewellery businesses to establish an online presence.
 
 ---
 
 ## 🚀 Project Overview
 
-This website provides a professional digital storefront for a jwellery shop. The platform is **frontend-only** and does not use any backend or database. Each product includes a **WhatsApp Chat feature**, allowing users to directly contact the shop owner to inquire or place orders.
+This website provides a professional digital storefront for a jewellery shop. The platform is **frontend-only** and does not use any backend or database. Each product includes a **WhatsApp Chat feature**, allowing users to directly contact the shop owner to inquire or place orders.
 
 ---
 
 ## ✨ Features
 
 * 🖼️ Product showcase with high-quality images
-* 💍 Jwellery categories (Rings, Necklaces, Earrings, etc.)
+* 💍 Jewellery categories (Rings, Necklaces, Earrings, etc.)
 * 📄 Individual product cards
 * 📲 **WhatsApp Chat integration for each product** ("I want this product")
 * 📱 Fully responsive design (Mobile / Tablet / Desktop)
