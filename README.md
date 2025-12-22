@@ -103,3 +103,4 @@ Frontend / Full Stack Developer
 ⭐ If you like this project, don’t forget to give it a star!
 
 ```
+email fixed
